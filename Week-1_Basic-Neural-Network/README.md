@@ -1,6 +1,7 @@
 # Week 1 – Basic Neural Network from Scratch
 
 **Task Description**
+
  The objective of this task was to implement a basic neural network from scratch without using any deep learning frameworks such as TensorFlow or PyTorch.
 
 **What I Implemented**
