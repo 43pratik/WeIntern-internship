@@ -22,6 +22,7 @@
  4. View the loss vs epochs graph generated at the end.
 
 **Output**
+
 The model shows a gradual decrease in loss over epochs, indicating that the neural network is learning properly.
 
 **Learnings**
